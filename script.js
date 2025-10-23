@@ -1,5 +1,5 @@
 // OpenWeather API Key (Replace with your regenerated key before public deployment)
-const API_KEY = "2a37097cd06398138d5b82c1bfea2dca";
+const API_KEY = "a9eb6b8215cb14f345d6f0942b4ff20c";
 
 async function getWeather() {
   const city = document.getElementById("cityInput").value.trim();
